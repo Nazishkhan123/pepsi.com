@@ -1,0 +1,182 @@
+.container-fluid{
+    background-color: blue !important ;
+    color: white !important;
+    position: static;
+    height: 30%;
+    
+    
+}
+
+.nav-link {
+    color: white !important;
+    
+
+}
+.nav-link:hover{
+  color: blue !important;
+  background-color: #fff !important;
+}
+
+.form-control {
+    background-color: blue !important;
+    color: white !important;
+    
+}
+
+.d-flex{
+    color: white !important;
+}
+ 
+.image3{
+    position: relative;
+    margin-top: -120px;
+    left: 50%;
+    bottom: 100px;
+    BOTTOM: 30px;
+}
+.pepsi{
+    background-color:blue;
+    margin-top: 0;
+}
+.pepsi a{
+    position: absolute;
+    margin-top: 600px;
+    margin-right:500px;
+}
+.btn{
+    margin-left: 700px;
+    margin-bottom: 20px;
+    height: 35px;
+    width: PX;
+    border-radius: 20px;
+}
+.pepsi2{
+    position:relative;
+    left: 500px;
+    bottom: 350px;
+    
+    
+     
+}
+.pepsi1{
+    
+    margin-top:60px;
+    
+    margin-left: 40px;
+
+}
+.pepsi1 h4{
+  font-weight: bold;
+  background-color: blue;
+  color: #fff;
+}
+.pepsi3{
+    position: relative;
+    bottom: 600px;
+    
+    margin-left: 40px;
+}
+.pepsi3 h4{
+  font-weight: bold;
+  background-color: blue;
+  color: white;
+}
+.mango{
+    display: flex;
+    background-color:blue;
+    margin-top: -600px;
+}
+.photos{
+    margin-left: 110px;
+}
+
+.photos h1{
+    position: relative;
+    left: 20%;
+    color: blue;
+    font-weight: bold;
+}
+footer {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+  }
+  
+  .footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo img {
+    width: 100px;
+  }
+  
+  .contact-us {
+    flex-basis: 50%;
+    margin: 20px ;
+  }
+  
+  .icons {
+    flex-basis: 30%;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    left: 70%;
+  }
+  
+  .icons a {
+    color: white;
+    font-size: 24px;
+  }
+  
+  .footer-bottom {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .contact{
+    position: relative;
+    top: 50%;
+  }
+  .copy{
+    position: relative;
+    left: 1%;
+    top: 5%;
+    
+  }
+ 
+  .button a{
+    color: #fff;
+    padding: 3px 20px 3px 20px;
+    border: 1px solid white;
+    background: blue;
+    font-size: 1.5rem;
+    text-decoration: none;
+    border-radius: 25px;
+
+  }
+  
+  .button a:hover{
+    background-color: white;
+    color: blue;
+  }
+  .button1 a{
+    color: #fff;
+    padding: 3px 20px 3px 20px;
+    border: 1px solid white;
+    background: blue;
+    font-size: 1.5rem;
+    text-decoration: none;
+    border-radius: 25px;
+    position: relative;
+    left: 50%;
+    bottom: 50PX;
+
+  }
+  
+  .button1 a:hover{
+    background-color: white;
+    color: blue;
+  }
